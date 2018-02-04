@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ImageFinder.iml" filepath="$PROJECT_DIR$/ImageFinder.iml" />
+      <module fileurl="file://D:\UDASITY COURSE\java\SearchByImageApp\ImageFinder.iml" filepath="D:\UDASITY COURSE\java\SearchByImageApp\ImageFinder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SearchByImageApp.iml" filepath="$PROJECT_DIR$/.idea/SearchByImageApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://D:\UDASITY COURSE\java\SearchByImageApp\app\app.iml" filepath="D:\UDASITY COURSE\java\SearchByImageApp\app\app.iml" />
     </modules>
   </component>
 </project>
